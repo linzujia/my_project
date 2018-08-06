@@ -24,4 +24,8 @@ public class SysPermissionServiceImpl extends ServiceImpl<SysPermissionMapper, S
     public List<SysPermission> selectPermByUser(UserInfo userInfo) throws Exception {
         return baseMapper.selectPermByUser(userInfo);
     }
+
+    public static void test(){
+    	System.out.println("111111")
+    }
 }
