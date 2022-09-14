@@ -33,13 +33,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>cn.com.lzj.test</string>
+				<string>cn.com.lzj.test.2FA3K2543Q</string>
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>应用下载 App download</string>
+				<string>testOpen下载</string>
 			</dict>
 		</dict>
 	</array>
